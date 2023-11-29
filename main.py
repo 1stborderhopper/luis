@@ -9,7 +9,7 @@ print('Here is your dish. ')
 print(Cuisine)
 
 if 'spaghetti' in Cuisine.keys():
-    print('This is the best.')
+    print('This is the worst food i have ever had, i want to see your manager right now!!!!!')
 else: 
     print( 'I think you forgot something, I\'ll add it: ')
     Cuisine['spahgetti'] = 'dish'
